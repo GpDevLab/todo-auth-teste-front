@@ -65,7 +65,7 @@ Instale o JSON Server (caso ainda não tenha)
 
 ---
 
-## 📌 Regras de Entrega (em caso de desafio técnico)
+## 📌 Regras de Entrega
 
 - ✅ Subir projeto no GitHub (público)
 - ✅ README com:
@@ -80,7 +80,5 @@ Instale o JSON Server (caso ainda não tenha)
 - 🔗 [Next.js](https://nextjs.org/)
 - 🎨 [TailwindCSS](https://tailwindcss.com/)
 - 🔐 [NextAuth.js](https://next-auth.js.org/)
-- 🧬 [Prisma](https://www.prisma.io/)
-- 🗄️ [SQLite](https://www.sqlite.org/)
 
 Boa sorte! 🚀 Dê seu melhor e divirta-se desenvolvendo! 🧠🛠️
