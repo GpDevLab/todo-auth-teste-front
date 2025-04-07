@@ -12,15 +12,20 @@ Desenvolver uma aplicação que:
 
 ---
 
+## 🚀 Como rodar a API
+Instale o JSON Server (caso ainda não tenha)
+- npm install -g json-server
+- git clone https://github.com/GpDevLab/todo-auth-teste-front
+- cd server
+- json-server --watch db.json --port 3001
+- A API estará acessível em http://localhost:3001
+
 ## 📌 Requisitos Técnicos
 
 ### **Obrigatórios**
 - ✅ **Next.js** (versão 13 ou superior)
 - ✅ **TailwindCSS** para estilização
-- ✅ **Prisma ORM** para manipulação do banco de dados
 - ✅ **Autenticação** via credenciais ou com NextAuth.js
-- ✅ **SQLite** MariaDB ou MYSQL para persistência
-- ✅ **Deploy** com Vercel ou Netlify
 
 ### **Desejáveis (Bônus)**
 - 🧪 **Testes unitários** com Jest/RTL
@@ -63,7 +68,6 @@ Desenvolver uma aplicação que:
 ## 📌 Regras de Entrega (em caso de desafio técnico)
 
 - ✅ Subir projeto no GitHub (público)
-- ✅ Deploy publicado com Vercel ou Netlify
 - ✅ README com:
   - 📦 Instruções de instalação
   - 💡 Decisões técnicas

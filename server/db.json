@@ -1,0 +1,26 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "user@example.com",
+        "password": "123456"
+      }
+    ],
+    "tasks": [
+      {
+        "id": 1,
+        "userId": 1,
+        "title": "Estudar Next.js",
+        "description": "Ler a documentação oficial e fazer um projeto.",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "userId": 1,
+        "title": "Criar layout com TailwindCSS",
+        "description": "Construir UI responsiva para a lista de tarefas.",
+        "completed": true
+      }
+    ]
+  }
+  
